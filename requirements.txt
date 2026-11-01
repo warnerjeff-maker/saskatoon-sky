@@ -1,0 +1,7 @@
+streamlit>=1.40
+ephem>=4.1
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.1
+tzdata
+sgp4>=2.23
